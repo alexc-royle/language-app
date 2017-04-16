@@ -1,0 +1,26 @@
+{
+  "name": "language-app",
+  "version": "0.0.1",
+  "description": "Hungarian learning app, flash cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexc-royle/language-app.git"
+  },
+  "keywords": [
+    "hungarian",
+    "language",
+    "learning",
+    "flash",
+    "cards"
+  ],
+  "author": "Alex ROyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexc-royle/language-app/issues"
+  },
+  "homepage": "https://github.com/alexc-royle/language-app#readme"
+}
