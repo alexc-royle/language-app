@@ -1,0 +1,25 @@
+{
+  "name": "language-app",
+  "description": "Hungarian learning app, flash cards",
+  "main": "index.js",
+  "authors": [
+    "Alex ROyle"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "hungarian",
+    "language",
+    "learning",
+    "flash",
+    "cards"
+  ],
+  "homepage": "https://github.com/alexc-royle/language-app",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
